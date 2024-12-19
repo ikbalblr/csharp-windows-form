@@ -1,0 +1,16 @@
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\bin\Debug\net8.0-windows\Kullanicikaydi.exe
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\bin\Debug\net8.0-windows\Kullanicikaydi.deps.json
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\bin\Debug\net8.0-windows\Kullanicikaydi.runtimeconfig.json
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\bin\Debug\net8.0-windows\Kullanicikaydi.dll
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\bin\Debug\net8.0-windows\Kullanicikaydi.pdb
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.Form1.resources
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.csproj.GenerateResource.cache
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.AssemblyInfoInputs.cache
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.AssemblyInfo.cs
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.dll
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\refint\Kullanicikaydi.dll
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.pdb
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\Kullanicikaydi.genruntimeconfig.cache
+C:\Users\ikbal\Desktop\Kullanicikaydi\Kullanicikaydi\obj\Debug\net8.0-windows\ref\Kullanicikaydi.dll

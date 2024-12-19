@@ -1,0 +1,16 @@
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\bin\Debug\net8.0-windows\rastgelesayiüret.exe
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\bin\Debug\net8.0-windows\rastgelesayiüret.deps.json
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\bin\Debug\net8.0-windows\rastgelesayiüret.runtimeconfig.json
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\bin\Debug\net8.0-windows\rastgelesayiüret.dll
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\bin\Debug\net8.0-windows\rastgelesayiüret.pdb
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.Form1.resources
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.csproj.GenerateResource.cache
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.AssemblyInfoInputs.cache
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.AssemblyInfo.cs
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.dll
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\refint\rastgelesayiüret.dll
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.pdb
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\rastgelesayiüret.genruntimeconfig.cache
+C:\Users\ikbal\Desktop\rastgelesayiüret\rastgelesayiüret\obj\Debug\net8.0-windows\ref\rastgelesayiüret.dll

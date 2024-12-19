@@ -1,0 +1,17 @@
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\bin\Debug\net8.0-windows\formdanformageçiş.exe
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\bin\Debug\net8.0-windows\formdanformageçiş.deps.json
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\bin\Debug\net8.0-windows\formdanformageçiş.runtimeconfig.json
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\bin\Debug\net8.0-windows\formdanformageçiş.dll
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\bin\Debug\net8.0-windows\formdanformageçiş.pdb
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.Form1.resources
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.Form2.resources
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.csproj.GenerateResource.cache
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.AssemblyInfoInputs.cache
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.AssemblyInfo.cs
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.dll
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\refint\formdanformageçiş.dll
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.pdb
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\formdanformageçiş.genruntimeconfig.cache
+C:\Users\ikbal\Desktop\formdanformageçiş\formdanformageçiş\obj\Debug\net8.0-windows\ref\formdanformageçiş.dll

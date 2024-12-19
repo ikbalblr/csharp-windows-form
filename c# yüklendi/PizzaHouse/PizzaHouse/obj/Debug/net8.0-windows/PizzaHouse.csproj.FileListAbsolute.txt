@@ -1,0 +1,17 @@
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\bin\Debug\net8.0-windows\PizzaHouse.exe
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\bin\Debug\net8.0-windows\PizzaHouse.deps.json
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\bin\Debug\net8.0-windows\PizzaHouse.runtimeconfig.json
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\bin\Debug\net8.0-windows\PizzaHouse.dll
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\bin\Debug\net8.0-windows\PizzaHouse.pdb
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.Form1.resources
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.Properties.Resources.resources
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.csproj.GenerateResource.cache
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.AssemblyInfoInputs.cache
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.AssemblyInfo.cs
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.dll
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\refint\PizzaHouse.dll
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.pdb
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\PizzaHouse.genruntimeconfig.cache
+C:\Users\ikbal\Desktop\PizzaHouse\PizzaHouse\obj\Debug\net8.0-windows\ref\PizzaHouse.dll

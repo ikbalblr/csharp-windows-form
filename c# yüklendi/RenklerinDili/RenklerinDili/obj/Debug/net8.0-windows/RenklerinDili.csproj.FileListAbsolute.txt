@@ -1,0 +1,17 @@
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\bin\Debug\net8.0-windows\RenklerinDili.exe
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\bin\Debug\net8.0-windows\RenklerinDili.deps.json
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\bin\Debug\net8.0-windows\RenklerinDili.runtimeconfig.json
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\bin\Debug\net8.0-windows\RenklerinDili.dll
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\bin\Debug\net8.0-windows\RenklerinDili.pdb
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.Form1.resources
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.Form2.resources
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.csproj.GenerateResource.cache
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.AssemblyInfoInputs.cache
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.AssemblyInfo.cs
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.dll
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\refint\RenklerinDili.dll
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.pdb
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\RenklerinDili.genruntimeconfig.cache
+C:\Users\ikbal\Desktop\RenklerinDili\RenklerinDili\obj\Debug\net8.0-windows\ref\RenklerinDili.dll
